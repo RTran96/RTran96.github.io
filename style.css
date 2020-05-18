@@ -52,5 +52,28 @@ a.active,a:hover{
 	background: blue;
 	width: 100%;
 	height: 100vh;
+}
+
+#section1-context{
+	padding-top: 50px;
+}
+
+#section2{
+	background: red;
+	width: 100%;
+	height: 100vh;
+}
+
+#section2-context{ 
+	padding-top: 50px;
+}
+
+#section3{
+	background: green;
+	width: 100%;
+	height: 100vh;
+}
+
+#section3-context{
 	padding-top: 50px;
 }
